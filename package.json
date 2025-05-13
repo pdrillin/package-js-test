@@ -1,5 +1,5 @@
 {
-  "name": "test-package",
+  "name": "test-package-pierre",
   "version": "1.0.0",
   "description": "Mon premier package en js",
   "main": "dist/index.js",
