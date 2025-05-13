@@ -1,0 +1,30 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "Mon premier package en js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pdrillin/package-js-test.git"
+  },
+  "keywords": [
+    "js",
+    "package"
+  ],
+  "author": "Pierre Drillin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdrillin/package-js-test/issues"
+  },
+  "homepage": "https://github.com/pdrillin/package-js-test#readme",
+  "dependencies": {
+    "vite": "^6.3.5"
+  }
+}
